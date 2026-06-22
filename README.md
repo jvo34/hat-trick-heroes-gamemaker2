@@ -58,7 +58,7 @@ Watch the full gameplay demo:
 
 [🎮 Gameplay Demo](media/hthgameplay.MOV)
 
-Built With
+## Built With
 
 * GameMaker
 * GameMaker Drag-and-Drop Visual Scripting
@@ -66,12 +66,12 @@ Built With
 * Event-driven game mechanics
 * 2D sprite-based gameplay
 
-What I Learned
+## What I Learned
 
-Hat-Trick Heroes was one of my earliest game development projects and gave me hands-on experience designing a complete playable game from concept to completion. Through building multiple game modes, I learned how to structure gameplay systems, create difficulty progression, design user interfaces and menus, implement timers and objectives, and think critically about player experience and game balance.
+Hat-Trick Heroes was one of my earliest game development projects from college and gave me hands-on experience designing a complete playable game from concept to completion. Through building multiple game modes, I learned how to structure gameplay systems, create difficulty progression, design user interfaces and menus, implement timers and objectives, and think critically about player experience and game balance.
 
 The project also reinforced my passion for combining software development with gaming and interactive experiences.
 
-Project Status
+## Project Status
 
 The original GameMaker project files are no longer available. This repository serves as an archive of the project through gameplay footage, screenshots, and documentation.
